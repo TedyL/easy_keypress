@@ -22,6 +22,7 @@ registerKeyDownEvent({
 </script>
 
 ```
+Refer char codes from : http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
 
 Supported class and id assigned, even document & window also supported too !
 
